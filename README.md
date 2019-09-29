@@ -19,4 +19,6 @@ This is a multi-chapter comprehensive study on domestic air travel in the US in 
 
 ## Report
 
-The report summary of the study can be found in the pdf [A Study on Domestic Air Travel in the US in 2008](https://github.com/thn003/US.air.travel.2008/blob/master/A%20Study%20on%20Domestic%20Air%20Travel%20in%20the%20US%20in%202008.pdf).
+The report summary of the study can be found in the pdf [A Study on Domestic Air Travel in the US in 2008](https://github.com/thn003/US.air.travel.2008/blob/master/A%20Study%20on%20Domestic%20Air%20Travel%20in%20the%20US%20in%202008.pdf). Since the pdf makes a lot of use of cross-reference both within the pdf and to outside links, for the best viewing experience, it is recommended to download the pdf and view it locally, either via a browser or a dedicated pdf reader.
+
+Additionally, all the R code used for investigating the subject is available in the repository. Since the investigation was comprehensive, it comprises of several coding files. Please refer to the pdf for guides on using the R codes.
