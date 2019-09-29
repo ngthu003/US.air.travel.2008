@@ -15,3 +15,8 @@ This is a multi-chapter comprehensive study on domestic air travel in the US in 
 #### 4. Time Series Analysis
 > Planned.
 #### Appendix
+
+
+## Report
+
+The report summary of the study can be found in the pdf [A Study on Domestic Air Travel in the US in 2008](https://github.com/thn003/US.air.travel.2008/blob/master/A%20Study%20on%20Domestic%20Air%20Travel%20in%20the%20US%20in%202008.pdf).
