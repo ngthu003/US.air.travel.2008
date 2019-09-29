@@ -4,7 +4,7 @@
 
 This is a multi-chapter comprehensive study on domestic air travel in the US in 2008 from the perspective of data science.
 
-### Contents:
+## Contents:
 
 #### 1. Exploratory Data Analysis
 > An exploration on the US domestic air travel market in 2008, identifying major air routes, airports, airlines, and the time of traveling. Also, a visualization at how wide-spread flight delay and cancellation were.
@@ -17,7 +17,7 @@ This is a multi-chapter comprehensive study on domestic air travel in the US in 
 #### Appendix
 
 
-## Report
+## Reports:
 
 The report summary of the study can be found in the pdf [A Study on Domestic Air Travel in the US in 2008](https://github.com/thn003/US.air.travel.2008/blob/master/A%20Study%20on%20Domestic%20Air%20Travel%20in%20the%20US%20in%202008.pdf). Since the pdf makes a lot of use of cross-reference both within the pdf and to outside links, for the best viewing experience, it is recommended to download the pdf and view it locally, either via a browser or a dedicated pdf reader.
 
