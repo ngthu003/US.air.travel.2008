@@ -2,7 +2,7 @@
 
 ## What this is:
 
-This is a multi-chapter comprehensive study on domestic air travel in the US in 2008 from the perspective of data science.
+This is a multi-chapter comprehensive study on domestic air travel in the US in 2008 from the perspective of data science. The data used for this study, a collection of all domestic flights in the US and the territories Puerto Rico and Virgin Islands, can be found [here](http://stat-computing.org/dataexpo/2009/the-data.html).
 
 ## Contents:
 
