@@ -1,0 +1,306 @@
+"","iata","airport","city","state","country","lat","long","State.City","City","Population","Housing.units","Area.sq.m","Pop.Density","Housing.Density","Capital"
+"1","ABE","Lehigh Valley International","Allentown","PA","USA",40.65236278,-75.44040167,"United States - Pennsylvania - Allentown city","Allentown city","118032","46921","18.02","6727.1","2674.2",0
+"2","ABI","Abilene Regional","Abilene","TX","USA",32.41132,-99.68189722,"United States - Texas - Abilene city","Abilene city","117063","47783","112.21","1096.2","447.4",0
+"3","ABQ","Albuquerque International","Albuquerque","NM","USA",35.04022222,-106.6091944,"United States - New Mexico - Albuquerque city","Albuquerque city","545852","239166","189.55","2907.6","1274.0",0
+"4","ABY","Southwest Georgia Regional","Albany","GA","USA",31.535515,-84.19447333,"United States - Georgia - Albany city","Albany city","77434","33436","55.89","1404.7","606.5",0
+"5","ACK","Nantucket Memorial","Nantucket","MA","USA",41.25305194,-70.06018139,"United States - Massachusetts - Nantucket CDP","Nantucket CDP","7446","6554","6.82","1281.7","1128.1",0
+"6","ACT","Waco Regional","Waco","TX","USA",31.61128833,-97.23051917,"United States - Texas - Waco city","Waco city","124805","51452","101.26","1402.9","578.3",0
+"7","ACV","Arcata","Arcata/Eureka","CA","USA",40.97811528,-124.1086189,"Arcata/Eureka","Arcata/Eureka","44422","19613","25.44","1746.1","771",0
+"8","ACY","Atlantic City International","Atlantic City","NJ","USA",39.45758333,-74.57716667,"United States - New Jersey - Atlantic City city","Atlantic City city","39558","20013","17.04","3680.8","1862.2",0
+"9","ADK","Adak","Adak","AK","USA",51.87796389,-176.6460306,"United States - Alaska - Adak city","Adak city","326","500","68.16","9.6","14.7",0
+"10","ADQ","Kodiak ","Kodiak","AK","USA",57.74996778,-152.4938553,"United States - Alaska - Kodiak city","Kodiak city","6130","2178","5.04","1758.0","624.6",0
+"11","AEX","Alexandria International","Alexandria","LA","USA",31.32737167,-92.54855611,"United States - Louisiana - Alexandria city","Alexandria city","47723","20366","29.10","1679.8","716.9",0
+"12","AGS","Bush ","Augusta","GA","USA",33.369955,-81.96449611,"United States - Georgia - Augusta-Richmond County consolidated government","Augusta-Richmond County consolidated government","200549","86331","328.59","618.4","266.2",0
+"13","AKN","King Salmon","King Salmon","AK","USA",58.67680167,-156.6492175,"United States - Alaska - King Salmon CDP","King Salmon CDP","374","336","169.69","2.2","2.0",0
+"14","ALB","Albany Cty","Albany","NY","USA",42.74811944,-73.80297861,"United States - New York - Albany city","Albany city","97856","46362","21.94","4575.2","2167.6",1
+"15","ALO","Waterloo Municipal","Waterloo","IA","USA",42.55708139,-92.40034361,"United States - Iowa - Waterloo city","Waterloo city","68406","30723","63.23","1114.3","500.5",0
+"16","AMA","Amarillo International","Amarillo","TX","USA",35.2193725,-101.7059272,"United States - Texas - Amarillo city","Amarillo city","190695","80298","101.16","1917.0","807.2",0
+"17","ANC","Ted Stevens Anchorage International","Anchorage","AK","USA",61.17432028,-149.9961856,"United States - Alaska - Anchorage municipality","Anchorage municipality","291826","113032","1961.00","171.2","66.3",0
+"18","ASE","Aspen-Pitkin Co/Sardy ","Aspen","CO","USA",39.22316,-106.868845,"United States - Colorado - Aspen city","Aspen city","6658","5929","3.87","1718.8","1530.6",0
+"19","ATL","William B Hartsfield-Atlanta Intl","Atlanta","GA","USA",33.64044444,-84.42694444,"United States - Georgia - Atlanta city","Atlanta city","420003","224573","134.01","3154.3","1686.6",1
+"20","ATW","Outagamie County Regional","Appleton","WI","USA",44.25740806,-88.51947556,"United States - Wisconsin - Appleton city","Appleton city","72623","30348","24.82","2985.4","1247.5",0
+"21","AUS","Austin-Bergstrom International","Austin","TX","USA",30.19453278,-97.66987194,"United States - Texas - Austin city","Austin city","790390","354241","305.06","2653.2","1189.1",1
+"22","AVL","Asheville Regional","Asheville","NC","USA",35.43619444,-82.54180556,"United States - North Carolina - Asheville city","Asheville city","83393","41626","45.23","1855.9","926.4",0
+"23","AVP","Wilkes-Barre/Scranton Intl","Wilkes-Barre/Scranton","PA","USA",41.33814944,-75.7242675,"Wilkes-Barre/Scranton","Wilkes-Barre/Scranton","117587","53448","32.85","3579.5","1627",0
+"24","AZO","Kalamazoo County","Kalamazoo","MI","USA",42.234875,-85.5520575,"United States - Michigan - Kalamazoo city","Kalamazoo city","74262","32433","25.12","3008.5","1313.9",0
+"25","BDL","Bradley International","Windsor Locks","CT","USA",41.93887417,-72.68322833,"United States - Connecticut - Windsor Locks CDP","Windsor Locks CDP","12498","5429","9.37","1385.0","601.6",0
+"26","BET","Bethel","Bethel","AK","USA",60.77977639,-161.8379975,"United States - Alaska - Bethel city","Bethel city","6080","2364","48.71","140.8","54.7",0
+"27","BFL","Meadows ","Bakersfield","CA","USA",35.43359806,-119.0567681,"United States - California - Bakersfield city","Bakersfield city","347483","120725","143.61","2444.2","849.2",0
+"28","BGM","Binghamton Regional","Binghamton","NY","USA",42.20848278,-75.97961361,"United States - New York - Binghamton city","Binghamton city","47376","23842","11.14","4516.8","2273.1",0
+"29","BGR","Bangor International","Bangor","ME","USA",44.80744444,-68.82813889,"United States - Maine - Bangor city","Bangor city","33039","15674","34.59","964.3","457.5",0
+"30","BHM","Birmingham International","Birmingham","AL","USA",33.56294306,-86.75354972,"United States - Alabama - Birmingham city","Birmingham city","212237","108981","148.61","1453.0","746.1",0
+"31","BIL","Billings Logan Intl","Billings","MT","USA",45.8076625,-108.5428611,"United States - Montana - Billings city","Billings city","104170","46317","43.53","2399.5","1066.9",0
+"32","BIS","Bismarck Municipal","Bismarck","ND","USA",46.77411111,-100.7467222,"United States - North Dakota - Bismarck city","Bismarck city","61272","28648","31.23","1986.5","928.8",1
+"33","BJI","Bemidji-Beltrami County","Bemidji","MN","USA",47.50942417,-94.93372333,"United States - Minnesota - Bemidji city","Bemidji city","13431","5748","14.14","1039.6","444.9",0
+"34","BLI","Bellingham Intl","Bellingham","WA","USA",48.79275,-122.5375278,"United States - Washington - Bellingham city","Bellingham city","80885","36760","28.90","2987.0","1357.5",0
+"35","BMI","Central Illinois Regional","Bloomington","IL","USA",40.47798556,-88.91595278,"United States - Illinois - Bloomington city","Bloomington city","76610","34339","27.23","2814.7","1261.7",0
+"36","BNA","Nashville International","Nashville","TN","USA",36.12447667,-86.67818222,"United States - Tennessee - Nashville-Davidson metropolitan government","Nashville-Davidson metropolitan government","626681","283978","525.94","1243.3","563.4",1
+"37","BOI","Boise Air Terminal","Boise","ID","USA",43.56444444,-116.2227778,"United States - Idaho - Boise City city","Boise City city","205671","92700","80.05","2591.5","1168.0",1
+"38","BOS","Gen Edw L Logan Intl","Boston","MA","USA",42.3643475,-71.00517917,"United States - Massachusetts - Boston city","Boston city","617594","272481","89.64","12792.7","5644.1",1
+"39","BPT","Southeast Texas Regional","Beaumont/Port Arthur","TX","USA",29.95083333,-94.02069444,"Beaumont/Port Arthur","Beaumont/Port Arthur","172114","74266","229.87","748.7","323.1",0
+"40","BQK","Glynco Jetport","Brunswick","GA","USA",31.25902778,-81.46630556,"United States - Georgia - Brunswick city","Brunswick city","15383","6832","25.26","901.0","400.2",0
+"41","BQN","Rafael Hernandez","Aguadilla","PR","USA",18.49486111,-67.12944444,"Puerto Rico - Aguadilla zona urbana","Aguadilla zona urbana","13310","7479","3.11","5275.0","2964.1",0
+"42","BRO","Brownsville/S.Padre Island International","Brownsville","TX","USA",25.90683333,-97.42586111,"United States - Texas - Brownsville city","Brownsville city","175023","53936","146.28","1322.6","407.6",0
+"43","BRW","Wiley Post Will Rogers Memorial","Barrow","AK","USA",71.2854475,-156.7660019,"United States - Alaska - Barrow city","Barrow city","4212","1554","21.50","223.6","82.5",0
+"44","BTM","Bert Mooney","Butte","MT","USA",45.95479528,-112.49746,"United States - Montana - Butte-Silver Bow","Butte-Silver Bow","34200","16717","719.05","47.6","23.3",0
+"45","BTR","Baton Rouge Metropolitan, Ryan ","Baton Rouge","LA","USA",30.53316083,-91.14963444,"United States - Louisiana - Baton Rouge city","Baton Rouge city","229493","100801","79.10","2982.5","1310.0",1
+"46","BTV","Burlington International","Burlington","VT","USA",44.47300361,-73.1503125,"United States - Vermont - Burlington city","Burlington city","42417","16897","15.49","4115.6","1639.5",0
+"47","BUF","Buffalo Niagara Intl","Buffalo","NY","USA",42.94052472,-78.73216667,"United States - New York - Buffalo city","Buffalo city","261310","133444","52.49","6470.6","3304.4",0
+"48","BUR","Burbank-Glendale-Pasadena","Burbank","CA","USA",34.20061917,-118.3584969,"United States - California - Burbank city","Burbank city","103340","44309","17.38","5959.3","2555.1",0
+"49","BWI","Baltimore-Washington International","Baltimore","MD","USA",39.17540167,-76.66819833,"United States - Maryland - Baltimore city","Baltimore city","620961","296685","92.05","7671.5","3665.3",0
+"50","BZN","Gallatin ","Bozeman","MT","USA",45.77690139,-111.1530072,"United States - Montana - Bozeman city","Bozeman city","37280","17464","19.15","1950.0","913.5",0
+"51","CAE","Columbia Metropolitan","Columbia","SC","USA",33.93884,-81.11953944,"United States - South Carolina - Columbia city","Columbia city","129272","52471","134.93","977.8","396.9",1
+"52","CAK","Akron-Canton Regional","Akron","OH","USA",40.91631194,-81.44246556,"United States - Ohio - Akron city","Akron city","199110","96288","62.37","3209.8","1552.2",0
+"53","CDC","Cedar City Muni","Cedar City","UT","USA",37.70097028,-113.098575,"United States - Utah - Cedar City city","Cedar City city","28857","10860","36.83","783.5","294.8",0
+"54","CDV","Merle K (Mudhole) Smith","Cordova","AK","USA",60.49183389,-145.4776503,"United States - Alaska - Cordova city","Cordova city","2239","1100","75.66","37.3","18.3",0
+"55","CEC","Jack McNamara ","Crescent City","CA","USA",41.78015722,-124.2365333,"United States - California - Crescent City city","Crescent City city","7643","1906","2.41","3892.8","970.8",0
+"56","CHA","Lovell ","Chattanooga","TN","USA",35.03526833,-85.20378778,"United States - Tennessee - Chattanooga city","Chattanooga city","167674","79607","144.55","1222.5","580.4",0
+"57","CHO","Charlottesville-Albermarle","Charlottesville","VA","USA",38.13863889,-78.45286111,"United States - Virginia - Charlottesville city","Charlottesville city","43475","19189","10.26","4246.3","1874.2",0
+"58","CHS","Charleston AFB/International","Charleston","SC","USA",32.89864639,-80.04050583,"United States - South Carolina - Charleston city","Charleston city","120083","59522","127.49","1101.9","546.2",0
+"59","CIC","Chico Municipal","Chico","CA","USA",39.79538278,-121.8584231,"United States - California - Chico city","Chico city","86187","37050","33.10","2617.8","1125.3",0
+"60","CID","Eastern Iowa ","Cedar Rapids","IA","USA",41.88458833,-91.71087222,"United States - Iowa - Cedar Rapids city","Cedar Rapids city","126326","57217","72.07","1784.3","808.2",0
+"61","CLD","MC Clellan-Palomar Airport","Carlsbad","CA","USA",33.127231,-117.278727,"United States - California - Carlsbad city","Carlsbad city","105328","44673","39.11","2792.2","1184.3",0
+"62","CLE","Cleveland-Hopkins Intl","Cleveland","OH","USA",41.41089417,-81.84939667,"United States - Ohio - Cleveland city","Cleveland city","396815","207536","82.47","5107.2","2671.1",0
+"63","CLL","Easterwood ","College Station","TX","USA",30.58858944,-96.36382417,"United States - Texas - College Station city","College Station city","93857","37226","49.62","1898.3","752.9",0
+"64","CLT","Charlotte/Douglas International","Charlotte","NC","USA",35.21401111,-80.94312583,"United States - North Carolina - Charlotte city","Charlotte city","731424","319918","299.67","2457.1","1074.7",0
+"65","CMH","Port Columbus Intl","Columbus","OH","USA",39.99798528,-82.89188278,"United States - Ohio - Columbus city","Columbus city","787033","370965","223.11","3624.1","1708.2",1
+"66","CMI","University of Illinois-Willard","Champaign/Urbana","IL","USA",40.03925,-88.27805556,"Champaign/Urbana","Champaign/Urbana","122305","53524","34.15","3581.4","1567.3",0
+"67","CMX","Houghton County Memorial","Hancock","MI","USA",47.16841722,-88.48906083,"United States - Michigan - Hancock city","Hancock city","4634","2111","2.97","1783.8","812.6",0
+"68","COD","Yellowstone Regional","Cody","WY","USA",44.52019417,-109.0237961,"United States - Wyoming - Cody city","Cody city","9520","4650","10.42","933.7","456.1",0
+"69","COS","City of Colorado Springs Muni","Colorado Springs","CO","USA",38.80580556,-104.70025,"United States - Colorado - Colorado Springs city","Colorado Springs city","416427","179607","194.91","2140.6","923.2",0
+"70","CPR","Natrona County Intl","Casper","WY","USA",42.90835556,-106.4644661,"United States - Wyoming - Casper city","Casper city","55316","24536","27.25","2056.0","912.0",0
+"71","CRP","Corpus Christi International","Corpus Christi","TX","USA",27.77036083,-97.50121528,"United States - Texas - Corpus Christi city","Corpus Christi city","305215","125469","489.59","1900.3","781.2",0
+"72","CRW","Yeager","Charleston","WV","USA",38.37315083,-81.59318972,"United States - West Virginia - Charleston city","Charleston city","51400","26205","32.66","1630.7","831.4",1
+"73","CSG","Columbus Metropolitan","Columbus","GA","USA",32.51633333,-84.93886111,"United States - Georgia - Columbus city","Columbus city","189885","82690","221.01","877.5","382.1",0
+"74","CVG","Cincinnati Northern Kentucky Intl","Covington","KY","USA",39.04614278,-84.6621725,"United States - Kentucky - Covington city","Covington city","40640","20053","13.77","3079.2","1519.4",0
+"75","CWA","Central Wisconsin","Mosinee","WI","USA",44.77761917,-89.66677944,"United States - Wisconsin - Mosinee city","Mosinee city","3988","1791","8.55","513.0","230.4",0
+"76","CYS","Cheyenne","Cheyenne","WY","USA",41.1557225,-104.8118381,"United States - Wyoming - Cheyenne city","Cheyenne city","59466","27283","24.63","2425.1","1112.6",1
+"77","DAB","Daytona Beach International","Daytona Beach","FL","USA",29.17991667,-81.05805556,"United States - Florida - Daytona Beach city","Daytona Beach city","61005","33920","63.78","1044.4","580.7",0
+"78","DAL","Dallas Love ","Dallas","TX","USA",32.84711389,-96.85177222,"United States - Texas - Dallas city","Dallas city","1197816","516639","385.84","3517.6","1517.2",0
+"79","DAY","James M Cox Dayton Intl","Dayton","OH","USA",39.90237583,-84.219375,"United States - Ohio - Dayton city","Dayton city","141527","74065","56.50","2543.1","1330.9",0
+"80","DBQ","Dubuque Municipal","Dubuque","IA","USA",42.40295944,-90.70916722,"United States - Iowa - Dubuque city","Dubuque city","57637","25029","31.22","1923.3","835.2",0
+"81","DCA","Ronald Reagan Washington National","Arlington","VA","USA",38.85208333,-77.03772222,"United States - Virginia - Arlington CDP","Arlington CDP","207627","105404","26.07","7993.5","4058.0",0
+"82","DEN","Denver Intl","Denver","CO","USA",39.85840806,-104.6670019,"United States - Colorado - Denver city","Denver city","600158","285797","154.63","3922.6","1868.0",1
+"83","DFW","Dallas-Fort Worth International","Dallas-Fort Worth","TX","USA",32.89595056,-97.0372,"Dallas-Fort Worth","Dallas-Fort Worth","1939022","807725","733.7","2642.8","1100.9",0
+"84","DHN","Dothan ","Dothan","AL","USA",31.32133917,-85.44962889,"United States - Alabama - Dothan city","Dothan city","65496","29274","89.72","732.6","327.5",0
+"85","DLG","Dillingham","Dillingham","AK","USA",59.0454125,-158.5033389,"United States - Alaska - Dillingham city","Dillingham city","2329","1047","36.35","69.4","31.2",0
+"86","DLH","Duluth International","Duluth","MN","USA",46.84209028,-92.19364861,"United States - Minnesota - Duluth city","Duluth city","86265","38208","87.43","1272.5","563.6",0
+"87","DRO","Durango-La Plata County","Durango","CO","USA",37.15151667,-107.7537692,"United States - Colorado - Durango city","Durango city","16887","7851","9.96","1701.6","791.1",0
+"88","DSM","Des Moines International","Des Moines","IA","USA",41.53493306,-93.66068222,"United States - Iowa - Des Moines city","Des Moines city","203433","88729","82.60","2515.6","1097.2",1
+"89","DTW","Detroit Metropolitan-Wayne County","Detroit","MI","USA",42.21205889,-83.34883583,"United States - Michigan - Detroit city","Detroit city","713777","349170","142.87","5144.3","2516.5",0
+"90","EGE","Eagle County Regional","Eagle","CO","USA",39.64256778,-106.9176953,"United States - Colorado - Eagle town","Eagle town","6508","2416","4.61","1418.1","526.4",0
+"91","EKO","Elko Regional","Elko","NV","USA",40.82492611,-115.7916964,"United States - Nevada - Elko city","Elko city","18297","7221","17.64","1037.3","409.4",0
+"92","ELM","Elmira/Corning Regional","Elmira","NY","USA",42.15991361,-76.89144333,"United States - New York - Elmira city","Elmira city","29200","12313","7.58","4028.2","1698.6",0
+"93","ELP","El Paso International","El Paso","TX","USA",31.80666667,-106.3778056,"United States - Texas - El Paso city","El Paso city","649121","227605","256.26","2543.2","891.7",0
+"94","ERI","Erie Intl","Erie","PA","USA",42.08202139,-80.17621556,"United States - Pennsylvania - Erie city","Erie city","101786","44790","19.28","5334.5","2347.4",0
+"95","EUG","Mahlon Sweet ","Eugene","OR","USA",44.12326,-123.2186856,"United States - Oregon - Eugene city","Eugene city","156185","69951","43.75","3572.2","1599.9",0
+"96","EVV","Evansville Regional","Evansville","IN","USA",38.03799139,-87.53062667,"United States - Indiana - Evansville city","Evansville city","117429","57799","44.63","2659.6","1309.0",0
+"97","EWN","Craven County Regional","New Bern","NC","USA",35.07297222,-77.04294444,"United States - North Carolina - New Bern city","New Bern city","29524","14471","29.68","1045.9","512.6",0
+"98","EWR","Newark Intl","Newark","NJ","USA",40.69249722,-74.16866056,"United States - New Jersey - Newark city","Newark city","277140","109520","26.11","11458.3","4528.1",0
+"99","EYW","Key West International","Key West","FL","USA",24.55611111,-81.75955556,"United States - Florida - Key West city","Key West city","24649","14107","7.24","4411.8","2524.9",0
+"100","FAI","Fairbanks International","Fairbanks","AK","USA",64.8136775,-147.8596694,"United States - Alaska - Fairbanks city","Fairbanks city","31535","13056","32.53","995.0","412.0",0
+"101","FAR","Hector International","Fargo","ND","USA",46.91934889,-96.81498889,"United States - North Dakota - Fargo city","Fargo city","105549","49956","48.82","2162.0","1023.2",0
+"102","FAT","Fresno Yosemite International","Fresno","CA","USA",36.77619444,-119.7181389,"United States - California - Fresno city","Fresno city","494665","171288","112.31","4418.4","1529.9",0
+"103","FAY","Fayetteville Municipal","Fayetteville","NC","USA",34.99147222,-78.88,"United States - North Carolina - Fayetteville city","Fayetteville city","200564","87005","147.71","1375.2","596.6",0
+"104","FCA","Glacier Park Intl","Kalispell","MT","USA",48.31140472,-114.2550694,"United States - Montana - Kalispell city","Kalispell city","19927","9379","11.72","1712.6","806.1",0
+"105","FLG","Flagstaff Pulliam","Flagstaff","AZ","USA",35.13845472,-111.6712183,"United States - Arizona - Flagstaff city","Flagstaff city","65870","26254","63.91","1031.3","411.0",0
+"106","FLL","Fort Lauderdale-Hollywood Int'l","Fort Lauderdale","FL","USA",26.07258333,-80.15275,"United States - Florida - Fort Lauderdale city","Fort Lauderdale city","165521","93159","38.57","4761.1","2679.7",0
+"107","FLO","Florence Regional","Florence","SC","USA",34.18536111,-79.72388889,"United States - South Carolina - Florence city","Florence city","37056","16665","20.93","1774.0","797.8",0
+"108","FNT","Bishop","Flint","MI","USA",42.96550333,-83.74345639,"United States - Michigan - Flint city","Flint city","102434","51321","34.05","3065.4","1535.8",0
+"109","FSD","Joe Foss ","Sioux Falls","SD","USA",43.58135111,-96.74170028,"United States - South Dakota - Sioux Falls city","Sioux Falls city","153888","66283","73.47","2109.1","908.4",0
+"110","FSM","Fort Smith Regional","Fort Smith","AR","USA",35.33659028,-94.36744111,"United States - Arkansas - Fort Smith city","Fort Smith city","86209","37899","65.84","1391.2","611.6",0
+"111","FWA","Fort Wayne International","Fort Wayne","IN","USA",40.97846583,-85.19514639,"United States - Indiana - Fort Wayne city","Fort Wayne city","253691","113541","110.83","2293.4","1026.4",0
+"112","GCC","Gillette-Campbell County","Gillette","WY","USA",44.34889806,-105.5393614,"United States - Wyoming - Gillette city","Gillette city","29087","12153","19.00","1533.4","640.7",0
+"113","GEG","Spokane Intl","Spokane","WA","USA",47.61985556,-117.5338425,"United States - Washington - Spokane city","Spokane city","208916","94291","60.02","3526.2","1591.5",0
+"114","GFK","Grand Forks International","Grand Forks","ND","USA",47.949255,-97.17611111,"United States - North Dakota - Grand Forks city","Grand Forks city","52838","23449","20.09","2654.6","1178.1",0
+"115","GGG","Gregg County","Longview","TX","USA",32.38486111,-94.71171,"United States - Texas - Longview city","Longview city","80455","32751","55.80","1444.6","588.1",0
+"116","GJT","Walker ","Grand Junction","CO","USA",39.1224125,-108.5267347,"United States - Colorado - Grand Junction city","Grand Junction city","58566","26170","38.59","1532.4","684.8",0
+"117","GNV","Gainesville Regional","Gainesville","FL","USA",29.69005556,-82.27177778,"United States - Florida - Gainesville city","Gainesville city","124354","57576","62.39","2028.5","939.2",0
+"118","GPT","Gulfport-Biloxi Regional","Gulfport-Biloxi","MS","USA",30.40728028,-89.07009278,"Gulfport-Biloxi","Gulfport-Biloxi","111847","52880","110.68","1010.5","477.8",0
+"119","GRB","Austin Straubel International","Green Bay","WI","USA",44.48507333,-88.12959,"United States - Wisconsin - Green Bay city","Green Bay city","104057","45241","55.95","2288.6","995.0",0
+"120","GRK","Robert Gray AAF","Killeen","TX","USA",31.06489778,-97.82779778,"United States - Texas - Killeen city","Killeen city","127921","53913","54.25","2387.5","1006.2",0
+"121","GRR","Kent County International","Grand Rapids","MI","USA",42.88081972,-85.52276778,"United States - Michigan - Grand Rapids city","Grand Rapids city","188040","80619","45.26","4235.6","1815.9",0
+"122","GSO","Piedmont Triad International","Greensboro","NC","USA",36.09774694,-79.9372975,"United States - North Carolina - Greensboro city","Greensboro city","269666","124074","131.80","2131.5","980.7",0
+"123","GSP","Greenville-Spartanburg","Greer","SC","USA",34.89566722,-82.21885833,"United States - South Carolina - Greer city","Greer city","25515","11127","22.72","1236.4","539.2",0
+"124","GST","Gustavus","Gustavus","AK","USA",58.42438139,-135.7073814,"United States - Alaska - Gustavus city","Gustavus city","442","488","36.94","13.5","14.9",0
+"125","GTF","Great Falls Intl","Great Falls","MT","USA",47.48200194,-111.3706853,"United States - Montana - Great Falls city","Great Falls city","58505","26854","22.26","2684.9","1232.4",0
+"126","GTR","Golden Triangle Regional","Columbus-St.arkville-West Point","MS","USA",33.45033444,-88.59136861,"Columbus-St.arkville-West Point","Columbus-St.arkville-West Point","34947","15954","43.98","794.6","362.8",0
+"127","GUC","Gunnison County","Gunnison","CO","USA",38.53396333,-106.9331817,"United States - Colorado - Gunnison city","Gunnison city","5854","2645","3.23","1810.7","818.1",0
+"128","HDN","Yampa Valley","Hayden","CO","USA",40.48118028,-107.2176597,"United States - Colorado - Hayden town","Hayden town","1810","806","3.00","602.4","268.3",0
+"129","HHH","Hilton Head","Hilton Head Island","SC","USA",32.224384,-80.697629,"United States - South Carolina - Hilton Head Island town","Hilton Head Island town","37099","33306","69.13","896.9","805.2",0
+"130","HLN","Helena Regional","Helena","MT","USA",46.60681806,-111.9827503,"United States - Montana - Helena city","Helena city","28190","13457","16.39","1724.3","823.1",1
+"131","HNL","Honolulu International","Honolulu","HI","USA",21.31869111,-157.9224072,"United States - Hawaii - East Honolulu CDP","East Honolulu CDP","49914","18774","34.46","2169.1","815.8",1
+"132","HOU","William P Hobby","Houston","TX","USA",29.64541861,-95.27888889,"United States - Texas - Houston city","Houston city","2099451","892646","627.50","3501.5","1488.8",0
+"133","HPN","Westchester Cty","White Plains","NY","USA",41.06695778,-73.70757444,"United States - New York - White Plains city","White Plains city","56853","24382","9.88","5820.5","2496.2",0
+"134","HRL","Valley International","Harlingen","TX","USA",26.22850611,-97.65439389,"United States - Texas - Harlingen city","Harlingen city","64849","25585","40.30","1629.1","642.7",0
+"135","HSV","Huntsville International ","Huntsville","AL","USA",34.6404475,-86.77310944,"United States - Alabama - Huntsville city","Huntsville city","180105","84949","210.39","861.5","406.3",0
+"136","HTS","Tri-State/Walker-Long ","Huntington","WV","USA",38.36666667,-82.55802778,"United States - West Virginia - Huntington city","Huntington city","49138","25146","18.46","3029.3","1550.2",0
+"137","IAD","Washington Dulles International","Chantilly","VA","USA",38.94453194,-77.45580972,"United States - Virginia - Chantilly CDP","Chantilly CDP","23039","7403","12.15","1916.6","615.8",0
+"138","IAH","George Bush Intercontinental","Houston","TX","USA",29.98047222,-95.33972222,"United States - Texas - Houston city","Houston city","2099451","892646","627.50","3501.5","1488.8",0
+"139","ICT","Wichita Mid-Continent","Wichita","KS","USA",37.64995889,-97.43304583,"United States - Kansas - Wichita city","Wichita city","382368","167310","163.59","2400.4","1050.3",0
+"140","IDA","Idaho Falls Regional","Idaho Falls","ID","USA",43.51455556,-112.0701667,"United States - Idaho - Idaho Falls city","Idaho Falls city","56813","22977","22.80","2542.0","1028.1",0
+"141","ILM","Wilmington International","Wilmington","NC","USA",34.27061111,-77.90255556,"United States - North Carolina - Wilmington city","Wilmington city","106476","53400","53.00","2067.8","1037.0",0
+"142","IND","Indianapolis International","Indianapolis","IN","USA",39.71732917,-86.29438417,"United States - Indiana - Indianapolis city","Indianapolis city","829718","384414","373.05","2264.2","1049.0",1
+"143","INL","Falls International","International Falls","MN","USA",48.56618722,-93.40306667,"United States - Minnesota - International Falls city","International Falls city","6424","3157","6.52","1001.3","492.1",0
+"144","IPL","Imperial County","Imperial","CA","USA",32.83422028,-115.5787456,"United States - California - Imperial city","Imperial city","14758","4751","5.86","2519.9","811.2",0
+"145","ISP","Long Island - MacArthur","Islip","NY","USA",40.7952425,-73.10021194,"United States - New York - Central Islip CDP","Central Islip CDP","34450","9961","7.11","4844.5","1400.8",0
+"146","ITH","Tompkins Cty ","Ithaca","NY","USA",42.49102778,-76.45844444,"United States - New York - Ithaca city","Ithaca city","30014","10950","6.07","5570.3","2032.2",0
+"147","ITO","Hilo International","Hilo","HI","USA",19.72026306,-155.0484703,"United States - Hawaii - Hilo CDP","Hilo CDP","43263","16905","58.28","810.3","316.6",0
+"148","IYK","Inyokern","Inyokern","CA","USA",35.65884306,-117.8295122,"United States - California - Inyokern CDP","Inyokern CDP","1099","537","10.92","100.7","49.2",0
+"149","JAC","Jackson Hole","Jackson","WY","USA",43.60732417,-110.7377389,"United States - Wyoming - Jackson town","Jackson town","9577","4736","2.95","3288.0","1626.0",0
+"150","JAN","Jackson International","Jackson","MS","USA",32.31116667,-90.07588889,"United States - Mississippi - Jackson city","Jackson city","173514","74537","113.24","1562.5","671.2",1
+"151","JAX","Jacksonville International","Jacksonville","FL","USA",30.49405556,-81.68786111,"United States - Florida - Jacksonville city","Jacksonville city","821784","366273","874.63","1100.1","490.3",0
+"152","JFK","John F Kennedy Intl","New York","NY","USA",40.63975111,-73.77892556,"United States - New York - New York city","New York city","8175133","3371062","468.48","27012.4","11138.7",0
+"153","JNU","Juneau International","Juneau","AK","USA",58.35496194,-134.5762764,"United States - Alaska - Juneau city and borough","Juneau city","31275","13055","3253.89","11.6","4.8",1
+"154","KOA","Kona International At Keahole","Kailua/Kona","HI","USA",19.73876583,-156.0456314,"Kailua/Kona","Kailua/Kona","101220","37750","100.94","1002.8","374",0
+"155","KTN","Ketchikan International","Ketchikan","AK","USA",55.35556861,-131.71374,"United States - Alaska - Ketchikan city","Ketchikan city","8050","3731","5.90","1849.5","857.2",0
+"156","LAN","Capital City","Lansing","MI","USA",42.7787,-84.58735806,"United States - Michigan - Lansing city","Lansing city","114297","54181","36.68","3170.6","1503.0",1
+"157","LAS","McCarran International","Las Vegas","NV","USA",36.08036111,-115.1523333,"United States - Nevada - Las Vegas city","Las Vegas city","583756","243701","135.87","4298.2","1794.4",0
+"158","LAW","Lawton-Ft Sill Regional","Lawton","OK","USA",34.56771444,-98.41663667,"United States - Oklahoma - Lawton city","Lawton city","96867","39409","81.03","1195.4","486.3",0
+"159","LAX","Los Angeles International","Los Angeles","CA","USA",33.94253611,-118.4080744,"United States - California - Los Angeles city","Los Angeles city","3792621","1413995","502.69","8092.3","3017.0",0
+"160","LBB","Lubbock International","Lubbock","TX","USA",33.66363889,-101.8227778,"United States - Texas - Lubbock city","Lubbock city","229573","95926","123.55","1875.4","783.6",0
+"161","LCH","Lake Charles Regional","Lake Charles","LA","USA",30.1260975,-93.22340361,"United States - Louisiana - Lake Charles city","Lake Charles city","71993","32469","44.80","1711.8","772.0",0
+"162","LEX","Blue Grass ","Lexington","KY","USA",38.03697222,-84.60538889,"United States - Kentucky - Lexington-Fayette urban county","Lexington-Fayette urban county","295803","135160","285.55","1042.8","476.5",0
+"163","LFT","Lafayette Regional","Lafayette","LA","USA",30.20527972,-91.987655,"United States - Louisiana - Lafayette city","Lafayette city","120623","53356","49.35","2450.1","1083.8",0
+"164","LGA","LaGuardia","New York","NY","USA",40.77724306,-73.87260917,"United States - New York - New York city","New York city","8175133","3371062","468.48","27012.4","11138.7",0
+"165","LGB","Long Beach (Daugherty )","Long Beach","CA","USA",33.81772222,-118.1516111,"United States - California - Long Beach city","Long Beach city","462257","176032","51.44","9191.2","3500.1",0
+"166","LIH","Lihue","Lihue","HI","USA",21.97598306,-159.3389581,"United States - Hawaii - Lihue CDP","Lihue CDP","6455","2601","7.45","967.7","389.9",0
+"167","LIT","Adams ","Little Rock","AR","USA",34.72939611,-92.22424556,"United States - Arkansas - Little Rock city","Little Rock city","193524","91288","120.99","1623.5","765.8",1
+"168","LMT","Klamath Falls International","Klamath Falls","OR","USA",42.15614361,-121.7332081,"United States - Oregon - Klamath Falls city","Klamath Falls city","20840","9595","20.66","1052.2","484.4",0
+"169","LNK","Lincoln Municipal","Lincoln","NE","USA",40.85097222,-96.75925,"United States - Nebraska - Lincoln city","Lincoln city","258379","110546","90.36","2899.4","1240.5",1
+"170","LRD","Laredo International","Laredo","TX","USA",27.54373861,-99.46154361,"United States - Texas - Laredo city","Laredo city","236091","68610","90.36","2655.4","771.7",0
+"171","LSE","La Crosse Municipal","La Crosse","WI","USA",43.87937972,-91.25653778,"United States - Wisconsin - La Crosse city","La Crosse city","51320","22628","22.54","2501.4","1102.9",0
+"172","LWB","Greenbrier Valley","Lewisburg","WV","USA",37.85830556,-80.39947222,"United States - West Virginia - Lewisburg city","Lewisburg city","3830","2100","3.81","1007.2","552.3",0
+"173","LWS","Lewiston-Nez Perce County","Lewiston","ID","USA",46.37449806,-117.0153944,"United States - Idaho - Lewiston city","Lewiston city","31894","14057","18.04","1851.0","815.8",0
+"174","LYH","Lynchburg Municipal-Preston Glenn ","Lynchburg","VA","USA",37.32668528,-79.20043056,"United States - Virginia - Lynchburg city","Lynchburg city","75568","31992","49.65","1538.2","651.2",0
+"175","MAF","Midland International","Midland","TX","USA",31.94252778,-102.2019139,"United States - Texas - Midland city","Midland city","111147","44708","72.24","1542.2","620.3",0
+"176","MBS","Mbs International","Saginaw","MI","USA",43.53291472,-84.07964722,"United States - Michigan - Saginaw city","Saginaw city","51508","23574","18.10","2971.2","1359.8",0
+"177","MCI","Kansas City International","Kansas City","MO","USA",39.29760528,-94.71390556,"United States - Missouri - Kansas City city","Kansas City city","459787","221860","319.03","1459.9","704.4",0
+"178","MCN","Middle Georgia Regional","Macon","GA","USA",32.69284944,-83.64921083,"United States - Georgia - Macon city","Macon city","91351","42794","56.36","1639.4","768.0",0
+"179","MCO","Orlando International","Orlando","FL","USA",28.42888889,-81.31602778,"United States - Florida - Orlando city","Orlando city","238300","121254","110.68","2327.3","1184.2",0
+"180","MDT","Harrisburg Intl","Harrisburg","PA","USA",40.19349528,-76.76340361,"United States - Pennsylvania - Harrisburg city","Harrisburg city","49528","24269","11.86","6092.1","2985.2",1
+"181","MDW","Chicago Midway","Chicago","IL","USA",41.7859825,-87.75242444,"United States - Illinois - Chicago city","Chicago city","2695598","1194337","234.11","11841.8","5246.7",0
+"182","MEI","Key ","Meridian","MS","USA",32.33313333,-88.75120556,"United States - Mississippi - Meridian city","Meridian city","41148","18591","54.51","765.7","346.0",0
+"183","MEM","Memphis International","Memphis","TN","USA",35.04241667,-89.97666667,"United States - Tennessee - Memphis city","Memphis city","646889","291883","324.00","2053.3","926.5",0
+"184","MFE","McAllen Miller International","McAllen","TX","USA",26.17583333,-98.23861111,"United States - Texas - McAllen city","McAllen city","129877","45862","48.65","2686.5","948.7",0
+"185","MFR","Rogue Valley International","Medford","OR","USA",42.37422778,-122.8734978,"United States - Oregon - Medford city","Medford city","74907","32430","25.74","2910.9","1260.3",0
+"186","MGM","Montgomery Regional Apt","Montgomery","AL","USA",32.30064417,-86.39397611,"United States - Alabama - Montgomery city","Montgomery city","205764","92115","161.92","1289.5","577.3",1
+"187","MHT","Manchester","Manchester","NH","USA",42.93451639,-71.43705583,"United States - New Hampshire - Manchester city","Manchester city","109565","49288","34.96","3310.1","1489.0",0
+"188","MIA","Miami International","Miami","FL","USA",25.79325,-80.29055556,"United States - Florida - Miami city","Miami city","399457","183994","56.06","11135.9","5129.3",0
+"189","MKE","General Mitchell International","Milwaukee","WI","USA",42.94722222,-87.89658333,"United States - Wisconsin - Milwaukee city","Milwaukee city","594833","255569","96.80","6188.3","2658.8",0
+"190","MKG","Muskegon County","Muskegon","MI","USA",43.16948806,-86.23822306,"United States - Michigan - Muskegon city","Muskegon city","38401","16105","18.12","2702.2","1133.3",0
+"191","MLB","Melbourne International ","Melbourne","FL","USA",28.10275,-80.64580556,"United States - Florida - Melbourne city","Melbourne city","76068","38955","39.57","2246.4","1150.4",0
+"192","MLI","Quad City","Moline","IL","USA",41.44852639,-90.50753917,"United States - Illinois - Moline city","Moline city","43483","19856","16.66","2647.0","1208.7",0
+"193","MLU","Monroe Regional","Monroe","LA","USA",32.51086556,-92.03768778,"United States - Louisiana - Monroe city","Monroe city","48815","20570","32.45","1671.0","704.1",0
+"194","MOB","Mobile Regional","Mobile","AL","USA",30.69141667,-88.24283333,"United States - Alabama - Mobile city","Mobile city","195111","89127","179.78","1402.6","640.7",0
+"195","MOD","Modesto City-County-Harry Sham ","Modesto","CA","USA",37.62581722,-120.9544214,"United States - California - Modesto city","Modesto city","201165","75044","37.09","5456.5","2035.5",0
+"196","MOT","Minot International","Minot","ND","USA",48.25937778,-101.2803339,"United States - North Dakota - Minot city","Minot city","40888","18744","17.45","2346.1","1075.5",0
+"197","MQT","Marquette County Airport","Marquette","MI","USA",46.353639,-87.395361,"United States - Michigan - Marquette city","Marquette city","21355","8756","19.46","1874.4","768.5",0
+"198","MRY","Monterey Peninsula","Monterey","CA","USA",36.5869825,-121.8429478,"United States - California - Monterey city","Monterey city","27810","13584","11.76","3284.9","1604.5",0
+"199","MSN","Dane County Regional","Madison","WI","USA",43.13985778,-89.33751361,"United States - Wisconsin - Madison city","Madison city","233209","108843","94.03","3037.0","1417.4",1
+"200","MSO","Missoula International","Missoula","MT","USA",46.91630556,-114.0905556,"United States - Montana - Missoula city","Missoula city","66788","30682","27.68","2427.6","1115.2",0
+"201","MSP","Minneapolis-St Paul Intl","Minneapolis","MN","USA",44.88054694,-93.2169225,"United States - Minnesota - Minneapolis city","Minneapolis city","382578","178287","57.47","7088.3","3303.3",0
+"202","MSY","New Orleans International ","New Orleans","LA","USA",29.99338889,-90.25802778,"United States - Louisiana - New Orleans city","New Orleans city","343829","189896","350.21","2029.4","1120.8",0
+"203","MTJ","Montrose Regional","Montrose","CO","USA",38.50886722,-107.8938333,"United States - Colorado - Montrose city","Montrose city","19132","8621","17.80","1075.0","484.4",0
+"204","MYR","Myrtle Beach International","Myrtle Beach","SC","USA",33.67975,-78.92833333,"United States - South Carolina - Myrtle Beach city","Myrtle Beach city","27109","23262","23.57","1162.3","997.3",0
+"205","OAJ","Albert J Ellis","Jacksonville","NC","USA",34.82916444,-77.61213778,"United States - North Carolina - Jacksonville city","Jacksonville city","70145","21135","50.71","1508.2","454.4",0
+"206","OAK","Metropolitan Oakland International","Oakland","CA","USA",37.72129083,-122.2207167,"United States - California - Oakland city","Oakland city","390724","169710","78.00","7004.0","3042.2",0
+"207","OGD","Ogden-Hinckley","Ogden","UT","USA",41.19594417,-112.012175,"United States - Utah - Ogden city","Ogden city","82825","32482","27.10","3057.1","1198.9",0
+"208","OGG","Kahului","Kahului","HI","USA",20.89864972,-156.4304578,"United States - Hawaii - Kahului CDP","Kahului CDP","26337","7773","16.09","1823.0","538.0",0
+"209","OKC","Will Rogers World","Oklahoma City","OK","USA",35.39308833,-97.60073389,"United States - Oklahoma - Oklahoma City city","Oklahoma City city","579999","256930","620.82","956.4","423.7",1
+"210","OMA","Eppley Airfield","Omaha","NE","USA",41.30251861,-95.89417306,"United States - Nebraska - Omaha city","Omaha city","408958","177518","130.58","3217.9","1396.8",0
+"211","OME","Nome","Nome","AK","USA",64.51220222,-165.4452458,"United States - Alaska - Nome city","Nome city","3598","1503","21.62","284.8","119.0",0
+"212","ONT","Ontario International","Ontario","CA","USA",34.056,-117.6011944,"United States - California - Ontario city","Ontario city","163924","47449","50.01","3282.4","950.1",0
+"213","ORD","Chicago O'Hare International","Chicago","IL","USA",41.979595,-87.90446417,"United States - Illinois - Chicago city","Chicago city","2695598","1194337","234.11","11841.8","5246.7",0
+"214","ORF","Norfolk International","Norfolk","VA","USA",36.89461111,-76.20122222,"United States - Virginia - Norfolk city","Norfolk city","242803","95018","96.35","4486.3","1755.7",0
+"215","OTH","North Bend Muni","North Bend","OR","USA",43.41713889,-124.2460278,"United States - Oregon - North Bend city","North Bend city","9695","4450","5.09","2473.2","1135.2",0
+"216","OTZ","Ralph Wien Memorial","Kotzebue","AK","USA",66.88467694,-162.5985497,"United States - Alaska - Kotzebue city","Kotzebue city","3201","1160","28.60","118.9","43.1",0
+"217","OXR","Oxnard","Oxnard","CA","USA",34.20080083,-119.2072164,"United States - California - Oxnard city","Oxnard city","197899","52772","39.21","7358.4","1962.2",0
+"218","PBI","Palm Beach International","West Palm Beach","FL","USA",26.68316194,-80.09559417,"United States - Florida - West Palm Beach city","West Palm Beach city","99919","54179","58.04","1807.1","979.9",0
+"219","PDX","Portland Intl","Portland","OR","USA",45.58872222,-122.5975,"United States - Oregon - Portland city","Portland city","583776","265439","145.09","4375.3","1989.4",0
+"220","PFN","Panama City-Bay County International","Panama City","FL","USA",30.21208333,-85.68280556,"United States - Florida - Panama City city","Panama City city","36484","17438","35.44","1246.0","595.5",0
+"221","PHF","Newport News/Williamsburg International","Newport News","VA","USA",37.13189556,-76.4929875,"United States - Virginia - Newport News city","Newport News city","180719","76198","119.48","2630.0","1108.9",0
+"222","PHL","Philadelphia Intl","Philadelphia","PA","USA",39.87195278,-75.24114083,"United States - Pennsylvania - Philadelphia city","Philadelphia city","1526006","670171","142.71","11379.5","4997.5",0
+"223","PHX","Phoenix Sky Harbor International","Phoenix","AZ","USA",33.43416667,-112.0080556,"United States - Arizona - Phoenix city","Phoenix city","1445632","590149","517.95","2797.8","1142.1",1
+"224","PIA","Greater Peoria Regional","Peoria","IL","USA",40.66424333,-89.69330556,"United States - Illinois - Peoria city","Peoria city","115007","52621","50.23","2395.6","1096.1",0
+"225","PIH","Pocatello Regional","Pocatello","ID","USA",42.91130556,-112.5958611,"United States - Idaho - Pocatello city","Pocatello city","54255","22404","32.38","1683.8","695.3",0
+"226","PIR","Pierre Regional","Pierre","SD","USA",44.38267694,-100.285965,"United States - South Dakota - Pierre city","Pierre city","13646","6159","13.07","1045.0","471.6",1
+"227","PIT","Pittsburgh International","Pittsburgh","PA","USA",40.49146583,-80.23287083,"United States - Pennsylvania - Pittsburgh city","Pittsburgh city","305704","156165","58.34","5521.4","2820.5",0
+"228","PLN","Pellston Regional  of Emmet County","Pellston","MI","USA",45.5709275,-84.796715,"United States - Michigan - Pellston village","Pellston village","822","364","1.91","430.2","190.5",0
+"229","PMD","Palmdale Production Flight","Palmdale","CA","USA",34.62938889,-118.0845528,"United States - California - Palmdale city","Palmdale city","152750","46544","106.22","1441.6","439.3",0
+"230","PNS","Pensacola Regional","Pensacola","FL","USA",30.47330556,-87.18744444,"United States - Florida - Pensacola city","Pensacola city","51923","26848","40.71","2303.5","1191.1",0
+"231","PSC","Tri-Cities","Pasco","WA","USA",46.26468028,-119.1190292,"United States - Washington - Pasco city","Pasco city","59781","18782","34.07","1960.3","615.9",0
+"232","PSE","Mercedita","Ponce","PR","USA",18.00830278,-66.56301194,"Puerto Rico - Ponce zona urbana","Ponce zona urbana","132502","57856","45.75","4329.1","1890.3",0
+"233","PSG","James C. Johnson Petersburg","Petersburg","AK","USA",56.80165194,-132.9452781,"United States - Alaska - Petersburg city","Petersburg city","2948","1356","45.63","66.8","30.7",0
+"234","PSP","Palm Springs International","Palm Springs","CA","USA",33.82921556,-116.5062531,"United States - California - Palm Springs city","Palm Springs city","44552","34794","94.98","473.4","369.7",0
+"235","PUB","Pueblo Memorial","Pueblo","CO","USA",38.28908722,-104.4965722,"United States - Colorado - Pueblo city","Pueblo city","106595","47593","54.43","1987.2","887.2",0
+"236","PVD","Theodore F Green State","Providence","RI","USA",41.72399917,-71.42822111,"United States - Rhode Island - Providence city","Providence city","178042","71530","20.57","9676.1","3887.5",1
+"237","PWM","Portland International Jetport","Portland","ME","USA",43.64616667,-70.30875,"United States - Maine - Portland city","Portland city","66194","33836","69.44","3106.6","1588.0",0
+"238","RAP","Rapid City Regional","Rapid City","SD","USA",44.04532139,-103.0573708,"United States - South Dakota - Rapid City city","Rapid City city","67956","30254","55.49","1226.5","546.0",0
+"239","RDD","Redding Municipal","Redding","CA","USA",40.50898361,-122.2934019,"United States - California - Redding city","Redding city","89861","38679","61.17","1506.5","648.5",0
+"240","RDM","Roberts ","Redmond","OR","USA",44.25406722,-121.1499633,"United States - Oregon - Redmond city","Redmond city","26215","10965","16.79","1561.4","653.1",0
+"241","RDU","Raleigh-Durham International","Raleigh","NC","USA",35.87763889,-78.78747222,"United States - North Carolina - Raleigh city","Raleigh city","403892","176124","144.00","2826.3","1232.5",1
+"242","RFD","Greater Rockford","Rockford","IL","USA",42.19536389,-89.09721111,"United States - Illinois - Rockford city","Rockford city","152871","66700","61.95","2502.7","1092.0",0
+"243","RHI","Rhinelander-Oneida County","Rhinelander","WI","USA",45.63119306,-89.46745361,"United States - Wisconsin - Rhinelander city","Rhinelander city","7798","3981","8.61","935.2","477.4",0
+"244","RIC","Richmond International","Richmond","VA","USA",37.50516667,-77.31966667,"United States - Virginia - Richmond city","Richmond city","204214","98349","62.46","3414.7","1644.5",1
+"245","RKS","Rock Springs-Sweetwater County","Rock Springs","WY","USA",41.5942175,-109.0651928,"United States - Wyoming - Rock Springs city","Rock Springs city","23036","10070","19.34","1191.2","520.7",0
+"246","RNO","Reno/Tahoe International","Reno","NV","USA",39.49857611,-119.7680647,"United States - Nevada - Reno city","Reno city","225221","102582","105.88","2186.4","995.9",0
+"247","ROA","Roanoke Regional/ Woodrum ","Roanoke","VA","USA",37.32546833,-79.97542833,"United States - Virginia - Roanoke city","Roanoke city","97032","47453","42.90","2279.8","1114.9",0
+"248","ROC","Greater Rochester Int'l","Rochester","NY","USA",43.11886611,-77.67238389,"United States - New York - Rochester city","Rochester city","210565","97158","37.15","5884.9","2715.4",0
+"249","ROW","Roswell Industrial Air Center","Roswell","NM","USA",33.30155556,-104.5305556,"United States - New Mexico - Roswell city","Roswell city","48366","19743","29.92","1619.9","661.2",0
+"250","RST","Rochester International","Rochester","MN","USA",43.90882639,-92.49798722,"United States - Minnesota - Rochester city","Rochester city","106769","45683","54.75","1956.0","836.9",0
+"251","RSW","Southwest Florida International","Fort Myers","FL","USA",26.53616667,-81.75516667,"United States - Florida - Fort Myers city","Fort Myers city","62298","35138","48.98","1559.1","879.4",0
+"252","SAN","San Diego International-Lindbergh ","San Diego","CA","USA",32.73355611,-117.1896567,"United States - California - San Diego city","San Diego city","1307402","516033","372.40","4020.4","1586.9",0
+"253","SAT","San Antonio International","San Antonio","TX","USA",29.53369444,-98.46977778,"United States - Texas - San Antonio city","San Antonio city","1327407","524246","466.71","2879.8","1137.4",0
+"254","SAV","Savannah International","Savannah","GA","USA",32.12758333,-81.20213889,"United States - Georgia - Savannah city","Savannah city","136286","61883","108.73","1321.2","599.9",0
+"255","SBA","Santa Barbara Municipal","Santa Barbara","CA","USA",34.42621194,-119.8403733,"United States - California - Santa Barbara city","Santa Barbara city","88410","37820","41.97","4541.3","1942.7",0
+"256","SBN","South Bend Regional","South Bend","IN","USA",41.70895361,-86.31847417,"United States - Indiana - South Bend city","South Bend city","101168","46324","41.88","2440.3","1117.4",0
+"257","SBP","San Luis Obispo Co-McChesney ","San Luis Obispo","CA","USA",35.23705806,-120.6423931,"United States - California - San Luis Obispo city","San Luis Obispo city","45119","20553","12.93","3531.2","1608.6",0
+"258","SCC","Deadhorse","Prudhoe Bay","AK","USA",70.19475583,-148.4651608,"United States - Alaska - Prudhoe Bay CDP","Prudhoe Bay CDP","2174","0","557.09","5.7","0.0",0
+"259","SCE","University Park","State College","PA","USA",40.851206,-77.846302,"United States - Pennsylvania - State College borough","State College borough","42034","13007","4.56","9223.2","2854.0",0
+"260","SDF","Louisville International-Standiford ","Louisville","KY","USA",38.17438889,-85.736,"United States - Kentucky - Louisville/Jefferson County metro government","Louisville/Jefferson County metro government","741096","337616","397.68","1948.1","887.5",0
+"261","SEA","Seattle-Tacoma Intl","Seattle","WA","USA",47.44898194,-122.3093131,"United States - Washington - Seattle city","Seattle city","608660","308516","142.65","7250.9","3675.3",0
+"262","SFO","San Francisco International","San Francisco","CA","USA",37.61900194,-122.3748433,"United States - California - San Francisco city","San Francisco city","805235","376942","231.89","17179.2","8041.8",0
+"263","SGF","Springfield-Branson Regional","Springfield","MO","USA",37.24432611,-93.38685806,"United States - Missouri - Springfield city","Springfield city","159498","77620","82.31","1951.8","949.8",0
+"264","SGU","St George Muni","St. George","UT","USA",37.09058333,-113.5930556,"United States - Utah - St. George city","St. George city","72897","32089","70.91","1035.5","455.8",0
+"265","SHV","Shreveport Regional","Shreveport","LA","USA",32.4466275,-93.82559833,"United States - Louisiana - Shreveport city","Shreveport city","199311","88253","120.83","1891.4","837.5",0
+"266","SIT","Sitka","Sitka","AK","USA",57.04713806,-135.3615983,"United States - Alaska - Sitka city and borough","Sitka city","8881","4102","4811.39","3.1","1.4",0
+"267","SJC","San Jose International","San Jose","CA","USA",37.36186194,-121.9290089,"United States - California - San Jose city","San Jose city","945942","314038","179.97","5358.6","1779.0",0
+"268","SJT","San Angelo Regional /Mathis ","San Angelo","TX","USA",31.35775,-100.4963056,"United States - Texas - San Angelo city","San Angelo city","93200","39548","59.14","1639.0","695.5",0
+"269","SJU","Luis Munoz Marin International","San Juan","PR","USA",18.43941667,-66.00183333,"Puerto Rico - San Juan zona urbana","San Juan zona urbana","381931","194316","46.42","9669.1","4919.4",1
+"270","SLC","Salt Lake City Intl","Salt Lake City","UT","USA",40.78838778,-111.9777731,"United States - Utah - Salt Lake City city","Salt Lake City city","186440","80724","111.73","1678.0","726.5",1
+"271","SLE","McNary Fld","Salem","OR","USA",44.90952778,-123.0025,"United States - Oregon - Salem city","Salem city","154637","61276","48.44","3228.6","1279.4",1
+"272","SMF","Sacramento International","Sacramento","CA","USA",38.69542167,-121.5907669,"United States - California - Sacramento city","Sacramento city","466488","190911","100.11","4764.2","1949.8",1
+"273","SMX","Santa Maria Pub/Capt G Allan Hancock ","Santa Maria","CA","USA",34.89924833,-120.4575825,"United States - California - Santa Maria city","Santa Maria city","99553","28294","23.39","4374.9","1243.4",0
+"274","SNA","John Wayne /Orange Co","Santa Ana","CA","USA",33.67565861,-117.8682225,"United States - California - Santa Ana city","Santa Ana city","324528","76896","27.52","11900.8","2819.9",0
+"275","SPI","Capital","Springfield","IL","USA",39.84395194,-89.67761861,"United States - Illinois - Springfield city","Springfield city","116250","55729","65.76","1954.5","936.9",1
+"276","SPS","Sheppard AFB/Wichita Falls Municipal","Wichita Falls","TX","USA",33.98879611,-98.49189333,"United States - Texas - Wichita Falls city","Wichita Falls city","104553","43632","72.16","1449.3","604.8",0
+"277","SRQ","Sarasota Bradenton International","Sarasota","FL","USA",27.39533333,-82.55411111,"United States - Florida - Sarasota city","Sarasota city","51917","29151","25.20","3541.0","1988.3",0
+"278","STL","Lambert-St Louis International","St. Louis","MO","USA",38.74768694,-90.35998972,"United States - Missouri - St. Louis city","St. Louis city","319294","176002","66.03","5157.5","2842.9",0
+"279","STT","Cyril E. King","Charlotte Amalie","VI","USA",18.33730556,-64.97336111,NA,NA,NA,NA,NA,NA,NA,1
+"280","STX","Henry E. Rohlsen ","Christiansted","VI","USA",17.70188889,-64.79855556,NA,NA,NA,NA,NA,NA,NA,0
+"281","SUN","Friedman Memorial","Hailey","ID","USA",43.50484139,-114.2965903,"United States - Idaho - Hailey city","Hailey city","7960","3527","3.66","2178.2","965.1",0
+"282","SUX","Sioux Gateway ","Sioux City","IA","USA",42.40260333,-96.38436694,"United States - Iowa - Sioux City city","Sioux City city","82684","33425","58.49","1441.7","582.8",0
+"283","SWF","Stewart","Newburgh","NY","USA",41.50409361,-74.10483833,"United States - New York - Newburgh city","Newburgh city","28866","10505","4.78","7587.7","2761.3",0
+"284","SYR","Syracuse-Hancock Intl","Syracuse","NY","USA",43.11118694,-76.10631056,"United States - New York - Syracuse city","Syracuse city","145170","64356","25.61","5796.7","2569.8",0
+"285","TEX","Telluride Regional","Telluride","CO","USA",37.95375861,-107.90848,"United States - Colorado - Telluride town","Telluride town","2325","2070","0.74","3151.3","2805.7",0
+"286","TLH","Tallahassee Regional","Tallahassee","FL","USA",30.39652778,-84.35033333,"United States - Florida - Tallahassee city","Tallahassee city","181376","84248","103.45","1809.3","840.4",1
+"287","TOL","Toledo Express","Toledo","OH","USA",41.58680556,-83.80783333,"United States - Ohio - Toledo city","Toledo city","287208","138039","84.12","3559.3","1710.7",0
+"288","TPA","Tampa International ","Tampa","FL","USA",27.97547222,-82.53325,"United States - Florida - Tampa city","Tampa city","335709","157130","175.23","2960.2","1385.5",0
+"289","TRI","Tri-Cities Regional","Bristol","TN","USA",36.47521417,-82.40742056,"United States - Tennessee - Bristol city","Bristol city","26702","12773","32.44","826.8","395.5",0
+"290","TUL","Tulsa International","Tulsa","OK","USA",36.19837222,-95.88824167,"United States - Oklahoma - Tulsa city","Tulsa city","391906","185127","200.99","1991.9","940.9",0
+"291","TUP","Tupelo Municipal ","Tupelo","MS","USA",34.26810833,-88.769895,"United States - Mississippi - Tupelo city","Tupelo city","34546","15371","51.38","675.5","300.5",0
+"292","TUS","Tucson International","Tucson","AZ","USA",32.11608333,-110.9410278,"United States - Arizona - Tucson city","Tucson city","520116","229762","227.03","2294.2","1013.5",0
+"293","TVC","Cherry Capital","Traverse City","MI","USA",44.74144472,-85.582235,"United States - Michigan - Traverse City city","Traverse City city","14674","7358","8.66","1762.5","883.8",0
+"294","TWF","Joslin Field - Magic Valley","Twin Falls","ID","USA",42.48180389,-114.4877356,"United States - Idaho - Twin Falls city","Twin Falls city","44125","18033","18.16","2437.4","996.1",0
+"295","TXK","Texarkana Regional-Webb ","Texarkana","AR","USA",33.45370806,-93.99102,"United States - Arkansas - Texarkana city","Texarkana city","29919","13375","41.83","718.3","321.1",0
+"296","TYR","Tyler Pounds ","Tyler","TX","USA",32.35413889,-95.40238611,"United States - Texas - Tyler city","Tyler city","96900","41742","54.39","1799.2","775.0",0
+"297","TYS","McGhee-Tyson","Knoxville","TN","USA",35.81248722,-83.99285583,"United States - Tennessee - Knoxville city","Knoxville city","178874","88009","104.17","1815.6","893.3",0
+"298","VLD","Valdosta Regional","Valdosta","GA","USA",30.7825,-83.27672222,"United States - Georgia - Valdosta city","Valdosta city","54518","22709","36.35","1521.7","633.9",0
+"299","VPS","Eglin Air Force Base","Valparaiso","FL","USA",30.48325,-86.5254,"United States - Florida - Valparaiso city","Valparaiso city","5036","1939","12.73","425.1","163.7",0
+"300","WRG","Wrangell","Wrangell","AK","USA",56.48432583,-132.3698242,"United States - Alaska - Wrangell city and borough","Wrangell city","2369","1428","3462.06","0.9","0.6",0
+"301","WYS","Yellowstone","West Yellowstone","MT","USA",44.68839917,-111.1176375,"United States - Montana - West Yellowstone town","West Yellowstone town","1271","969","0.80","1593.5","1214.9",0
+"302","XNA","Northwest Arkansas Regional","Fayetteville/Springdale/Rogers","AR","USA",36.28186944,-94.30681111,"Fayetteville/Springdale/Rogers","Fayetteville/Springdale/Rogers","199341","83824","135.44","1471.8","618.9",0
+"303","YAK","Yakutat","Yakutat","AK","USA",59.50336056,-139.6602261,"United States - Alaska - Yakutat CDP","Yakutat CDP","662","383","104.12","6.6","3.8",0
+"304","YKM","Yakima Air Terminal","Yakima","WA","USA",46.56816972,-120.5440594,"United States - Washington - Yakima city","Yakima city","91067","34829","27.69","3350.6","1281.4",0
+"305","YUM","Yuma MCAS-Yuma International","Yuma","AZ","USA",32.65658333,-114.6059722,"United States - Arizona - Yuma city","Yuma city","93064","38626","120.41","773.7","321.1",0
